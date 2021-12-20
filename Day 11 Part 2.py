@@ -51,3 +51,4 @@ while True:
         steps += 1
 
 print(steps)
+fg
