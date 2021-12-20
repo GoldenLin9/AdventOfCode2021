@@ -1,1 +1,0 @@
-print("GOlden doesn't know git")
